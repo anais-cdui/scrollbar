@@ -1,0 +1,21 @@
+.progress-container{
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 12px;
+    background-color: plum;
+}
+
+.progress-bar{
+    height: 12px;
+    background-color: khaki;
+    width: 0%;
+}
+
+.content{
+    width: 80%;
+    margin: auto;
+    font-size: 2em;
+    text-align: justify;
+}
